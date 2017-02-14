@@ -12,7 +12,7 @@ while input!=" " do
 
   age_hash[name] = age
 
-puts "the hash content is:"
+puts "the hash content  is:"
 
 age_hash.each do |key,value|
   puts  "#{key} is #{age} years old"
